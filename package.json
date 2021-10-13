@@ -2,9 +2,9 @@
   "name": "Project",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Project.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node Project.js"
   },
   "keywords": [],
   "author": "",
