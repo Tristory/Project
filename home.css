@@ -1,0 +1,244 @@
+body {
+ font-family:Lato,san-serif;
+ background-image:url('images/CentralMall.jpg');
+ font-size:16px;
+
+ margin-top:0px;
+ margin-bottom:0px;
+ margin-left:0px;
+ margin-right:0px;
+
+ padding-top:0px;
+ padding-bottom:0px; 
+ padding-left:0px;
+ padding-right:0px;
+}
+
+ul {
+ margin:auto;
+
+ text-align:center;
+
+ margin-top:0px;
+ margin-bottom:80px;
+ margin-left:0px;
+ margin-right:0px;
+
+ padding-top:0px;
+ padding-bottom:0px;
+ padding-left:0px;
+ padding-right:0px;
+
+ list-style:none;
+}
+
+li {
+ font-size:24px;
+ line-height: 100px;
+ height:40px;
+	
+ padding-top:20px;
+ padding-bottom:20px;
+ padding-left:40px;
+ padding-right:20px;
+}
+
+a {
+ text-decoration:none;
+ color:#ffffff;
+}
+
+section {
+ display:flex;
+ text-align:center;
+ margin:auto;
+ width:100%;
+}
+
+article {
+ width: 33%;
+ background:#262626;
+ display:inline-block;
+ margin:80px 20px 0 20px;
+ border:5px solid #424242;
+ color:#a1a1a1;
+}
+
+article h1 {
+ font-size:2em;
+ color: #fff;
+ position:relative;
+}
+
+button {
+ background:#27dcc4;
+ color:#FFF;
+ padding:15px 30px;
+ margin:10px 0;
+ font-size:0.9em;
+ cursor:pointer;
+ border:none;
+}
+
+figure {
+ border:3px solid #142830;
+ float:right;
+ width:auto;
+ margin-left:15px;
+ width:auto;
+ height:auto;
+}
+
+input {
+ border-radius: 25px 25px 25px 25px;
+ width:50px;
+ height:30px;
+}
+
+#facebook {
+ width:50px; height: 50px;
+ background: url(images/social.jpg) -13px -3px;
+ vertical-align:middle;
+}
+
+#twitter {
+ width:50px; height: 50px;
+ background: url(images/social.jpg) -77px -3px;
+ vertical-align:middle;
+}
+
+#google {
+ width:50px; height: 50px;
+ background: url(images/social.jpg) -141px -3px;
+ vertical-align:middle;
+}
+
+#in {
+ width:50px; height: 50px;
+ background: url(images/social.jpg) -205px -3px;
+ vertical-align:middle;
+}
+
+button:hover {
+ background:#ACACAC;
+}
+
+article:hover {
+ border:10px solid #27dcc4;
+}
+
+li:hover {
+ color:#27dcc4;
+}
+
+input:hover {
+ width:200px;
+}
+
+#facebook:hover {
+ background: url(images/social.jpg) -13px -66px;
+}
+
+#twitter:hover {
+ background: url(images/social.jpg) -77px -66px;
+}
+
+#google:hover {
+ background: url(images/social.jpg) -141px -66px;
+}
+
+#in:hover {
+ background: url(images/social.jpg) -205px -66px;
+}
+
+p.price {
+ font-size:3em;
+ font-weight:bold;
+ color:#27dcc4;
+}
+
+h1.head{
+ text-align:center;
+ color:Tomato;
+ border:#444;
+ text-shadow:1px 1px;
+}
+
+h1.body {
+ padding-left:20px;
+ font-size:30px;
+ color:#f0f0f0;
+}
+
+article.panel {
+ border-style:none;
+ display:block;
+ width: 100%;
+ align: center;
+}
+
+div.article-content {
+ margin:15px 0;
+}
+
+ul.head {
+ background-color:#444;
+}
+
+ul.block {
+ padding:0;
+}
+
+li.inline {
+  display:inline;
+}
+
+figure.inline {
+ width:25%;
+ height:25%;
+ border:none;
+ float:inheret;
+}
+
+li.block {
+ list-style-type:none;
+ padding:5px 0;
+}
+
+figure.inline:hover {
+ border:5px solid #00d247;
+ align: center;
+}
+
+p.inline {
+ font-size:30px;
+ color:MediumSeaGreen;
+}
+
+p.inline:hover {
+ color:#00d247;
+}
+
+figure.inline2 {
+  width:auto;
+ height:auto;
+ border:none;
+ float:inheret;
+
+ margin:0 0 0 0;
+
+ padding-top:0px;
+ padding-bottom:0px;
+ padding-left:0px;
+ padding-right:0px;
+}
+
+footer {
+ background-color:#444;
+ color:#fff;
+ bottom:0;
+ position:bottom;
+ width:100%;
+ text-align:center;
+ height:33px;
+}
