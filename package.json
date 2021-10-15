@@ -2,9 +2,9 @@
   "name": "project",
   "version": "1.0.0",
   "description": "",
-  "main": "Project.js",
+  "main": "030202.js",
   "scripts": {
-    "start": "node Project.js"
+    "start": "node 030202.js"
   },
   "keywords": [],
   "author": "",
